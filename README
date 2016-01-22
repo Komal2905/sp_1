@@ -1,1 +1,10 @@
-test
+This is first three views of shopping pad app coded in the swift language
+
+First View - Home page
+First view will give information about the signup & signin buttons & will display the logo of shopping pad app.
+
+Second View - Signin
+This view will offer the 4 options that is either login through facebook account or gmail account or twitter account set or login through shopping pad app email id.
+
+Third View - SignUp
+This view will create user's new account. In new account it will take information from the user about profile photo , background photo , nickname , Email & password.  
